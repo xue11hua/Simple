@@ -18,5 +18,5 @@ npm run build
 npm run build --report
 ```
 
-动态表单
-vuex的简单使用
+#动态表单
+#vuex的简单使用
